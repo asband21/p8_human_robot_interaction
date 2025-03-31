@@ -1,0 +1,5 @@
+echo " If you have problems, please run the following commands:"
+echo "	python3 -m venv .venv"
+echo "	source .venv/bin/activate"
+echo "	python -m pip install --upgrade pip  # Optional but recommended"
+echo "	python -m pip install openai"
