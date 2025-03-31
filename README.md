@@ -1,2 +1,7 @@
-# rob 860 gruppe
-vi føgler https://github.com/openai/openai-python?tab=readme-ov-file
+# Rob 860 gruppe, HRI Workshop
+Vi følger OpenAI's egen brugermanual: [OpenAI for Python](https://github.com/openai/openai-python?tab=readme-ov-file)
+
+
+### Øl-robotten
+Vi bruger fortsat øl-robbotten vi designede til workshop dagen, undtagen at vi bruger conventionelle perception 
+sensorer istedet for skrigende unger. Dvs mikrofon of højtaler til samtale - videokamera til navigation og evt HRI.
