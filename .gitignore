@@ -1,4 +1,9 @@
 # .gitignore
 
+.venv/
+raport_2.aux
+raport_2.log
+raport_2.out
+raport_2.pdf
 key.txt
 .env
